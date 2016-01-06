@@ -118,12 +118,6 @@
 			life1.x = 398;
 			life1.y = 300;
 			
-			//fuckthis = new TextField;
-			//addChild(fuckthis);
-			//fuckthis.x = 240;
-			//fuckthis.y = 160;
-			//fuckthis.text = "fuck"
-			
 			addChild(life2);
 			life2.x = 428;
 			life2.y = 300;
